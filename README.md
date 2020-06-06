@@ -196,11 +196,11 @@ The second-largest category is saving and investment services, with 14% of the m
 
   **Top 3 competitors of Mylo:**
 
-  ![logo](./images/wealthsimple.jpg)
+  <img src="./Images/wealthsimple.jpg">
 
    Wealthsimple is Canada’s largest robo-advisor. Wealthsimple is more of a wealth management company which also offers a roundup bonus feature that works just like Mylo. The company was launched in Canada in 2014 and has since expanded its operations to the United States and the United Kingdom. Wealthsimple is backed by several financial giants, including the Power Financial Group which manages $1.4 trillion in assets under management. 
 
-   ![comparison](./images/Presentation4.jpg)
+   <img src="./Images/Presentation4.jpg">
 
    [*Source: Personal Finance Freedom*](https://www.personalfinancefreedom.com/wealthsimple-vs-mylo-which-is-better-and-why-top-5-reasons-2019/)
   
@@ -208,9 +208,8 @@ The second-largest category is saving and investment services, with 14% of the m
   
    Acorns is the US version of Mylo and one of its top rivals. Acorns is a mobile application that offers automated investment management and financial advisory services. Acorns is a Private company that was founded in Irvine, California in 2012. Acorns operates in the Application Software industry. 
 
-   
-
-   ![logo](./images/koho.jpg)
+  
+  <img src="./Images/koho.jpg">
 
    KOHO is seen as one of Mylo's top Canadian competitors. KOHO was founded in 2014, and its headquarters is in Toronto, Ontario. Like Mylo, KOHO also works within the Application Software sector. KOHO provides an everyday spending account that helps its users save money with spending insights and real-time cashback.
 
