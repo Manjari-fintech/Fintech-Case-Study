@@ -73,18 +73,18 @@ Mylo leverages technology to target two lines of business:
 
   **Products and Pricing**
 
-  1. Mylo: Mylo rounds up a customer’s credit and/or debit card purchases and then invests that money. Mylo costs $1 per month.
+  1. **Mylo**: Mylo rounds up a customer’s credit and/or debit card purchases and then invests that money. Mylo costs $1 per month.
 
-  2. Mylo Advantage: Mylo Advantage gives you all the perks of a regular Mylo account, plus some extra perks. It is a premium service which allows for investing in registered accounts (TFSA,RRSP), next day withdrawal, brand rewards and socially responsible investment portfolios. The price for Mylo Advantage is $3 per month.
+  2. **Mylo Advantage**: Mylo Advantage gives you all the perks of a regular Mylo account, plus some extra perks. It is a premium service which allows for investing in registered accounts (TFSA,RRSP), next day withdrawal, brand rewards and socially responsible investment portfolios. The price for Mylo Advantage is $3 per month.
   
   **Key Features of Mylo App**:
 
-  1.	Save & Invest in autopilot - Automatic roundups, multipliers, recurring deposits and one-time boosts make reaching your goals effortless
-  2.	Fully-managed, diversified portfolio - A portfolio manager uses Modern Portfolio Theory to invest in low-cost, exchange-traded funds (ETFs)
-  3. Unlimited Tax-free accounts - Invest with a TFSA or RRSP to benefit from valuable tax savings
-  4. Free, next-day withdrawals – Access your money when you really need it with faster withdrawals 
-  5. Socially responsible investing – Choose the Mylo SRI Fund to make a positive impact with investments
-  6. Cashback Perks – Get exclusive deals and discounts from brands you love
+  1.	**Save & Invest in autopilot** - Automatic roundups, multipliers, recurring deposits and one-time boosts make reaching your goals effortless
+  2.	**Fully-managed, diversified portfolio** - A portfolio manager uses Modern Portfolio Theory to invest in low-cost, exchange-traded funds (ETFs)
+  3. **Unlimited Tax-free accounts** - Invest with a TFSA or RRSP to benefit from valuable tax savings
+  4. **Free, next-day withdrawals** – Access your money when you really need it with faster withdrawals 
+  5. **Socially responsible investing** – Choose the Mylo SRI Fund to make a positive impact with investments
+  6. **Cashback Perks** – Get exclusive deals and discounts from brands you love
 
   **How the app works**:
 
@@ -204,12 +204,12 @@ The second-largest category is saving and investment services, with 14% of the m
 
    [*Source: Personal Finance Freedom*](https://www.personalfinancefreedom.com/wealthsimple-vs-mylo-which-is-better-and-why-top-5-reasons-2019/)
   
-  <img src="./images/acorns.png">
-  
+   <img src="./Images/acorns.png" width="" height="70">  
+
    Acorns is the US version of Mylo and one of its top rivals. Acorns is a mobile application that offers automated investment management and financial advisory services. Acorns is a Private company that was founded in Irvine, California in 2012. Acorns operates in the Application Software industry. 
 
   
-  <img src="./Images/koho.png">
+  <img src="./Images/koho.png" width="" height="50">
 
    KOHO is seen as one of Mylo's top Canadian competitors. KOHO was founded in 2014, and its headquarters is in Toronto, Ontario. Like Mylo, KOHO also works within the Application Software sector. KOHO provides an everyday spending account that helps its users save money with spending insights and real-time cashback.
 
