@@ -209,7 +209,7 @@ The second-largest category is saving and investment services, with 14% of the m
    Acorns is the US version of Mylo and one of its top rivals. Acorns is a mobile application that offers automated investment management and financial advisory services. Acorns is a Private company that was founded in Irvine, California in 2012. Acorns operates in the Application Software industry. 
 
   
-  <img src="./Images/koho.png" width="" height="50">
+  <img src="./Images/koho.png" width="" height="40">
 
    KOHO is seen as one of Mylo's top Canadian competitors. KOHO was founded in 2014, and its headquarters is in Toronto, Ontario. Like Mylo, KOHO also works within the Application Software sector. KOHO provides an everyday spending account that helps its users save money with spending insights and real-time cashback.
 
